@@ -1,7 +1,7 @@
-package net.egem.webService.repository.service;
+package net.dk.webService.repository.service;
 
-import net.egem.webService.entity.STBInfo;
-import net.egem.webService.repository.dao.STBInfoDao;
+import net.dk.webService.entity.STBInfo;
+import net.dk.webService.repository.dao.STBInfoDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

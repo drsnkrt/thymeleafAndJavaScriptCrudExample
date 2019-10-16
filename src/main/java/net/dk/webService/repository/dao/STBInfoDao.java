@@ -1,6 +1,6 @@
-package net.egem.webService.repository.dao;
+package net.dk.webService.repository.dao;
 
-import net.egem.webService.entity.STBInfo;
+import net.dk.webService.entity.STBInfo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

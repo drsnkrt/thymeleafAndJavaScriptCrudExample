@@ -1,7 +1,7 @@
-package net.egem.webService.repository.service;
+package net.dk.webService.repository.service;
 
-import net.egem.webService.entity.Log;
-import net.egem.webService.repository.dao.LogDao;
+import net.dk.webService.entity.Log;
+import net.dk.webService.repository.dao.LogDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

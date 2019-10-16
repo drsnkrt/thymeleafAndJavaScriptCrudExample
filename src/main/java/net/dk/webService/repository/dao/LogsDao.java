@@ -1,7 +1,7 @@
-package net.egem.webService.repository.dao;
+package net.dk.webService.repository.dao;
 
-import net.egem.webService.entity.Log;
-import net.egem.webService.entity.Logs;
+import net.dk.webService.entity.Log;
+import net.dk.webService.entity.Logs;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

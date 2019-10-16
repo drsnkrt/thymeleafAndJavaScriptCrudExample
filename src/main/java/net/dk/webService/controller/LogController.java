@@ -1,8 +1,8 @@
-package net.egem.webService.controller;
+package net.dk.webService.controller;
 
-import net.egem.webService.entity.Log;
-import net.egem.webService.entity.Logs;
-import net.egem.webService.repository.service.LogService;
+import net.dk.webService.entity.Log;
+import net.dk.webService.entity.Logs;
+import net.dk.webService.repository.service.LogService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

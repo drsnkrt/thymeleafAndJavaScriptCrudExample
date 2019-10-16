@@ -1,7 +1,7 @@
-package net.egem.webService.controller;
+package net.dk.webService.controller;
 
-import net.egem.webService.entity.STBInfo;
-import net.egem.webService.repository.service.STBInfoService;
+import net.dk.webService.entity.STBInfo;
+import net.dk.webService.repository.service.STBInfoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

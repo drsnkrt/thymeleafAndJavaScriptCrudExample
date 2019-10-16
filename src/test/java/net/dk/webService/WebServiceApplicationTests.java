@@ -1,4 +1,4 @@
-package net.egem.webService;
+package net.dk.webService;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

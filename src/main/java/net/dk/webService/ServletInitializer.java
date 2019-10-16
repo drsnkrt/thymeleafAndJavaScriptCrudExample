@@ -1,4 +1,4 @@
-package net.egem.webService;
+package net.dk.webService;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

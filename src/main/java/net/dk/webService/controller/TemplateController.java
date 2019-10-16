@@ -1,4 +1,4 @@
-package net.egem.webService.controller;
+package net.dk.webService.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

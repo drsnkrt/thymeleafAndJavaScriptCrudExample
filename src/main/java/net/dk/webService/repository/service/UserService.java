@@ -1,7 +1,7 @@
-package net.egem.webService.repository.service;
+package net.dk.webService.repository.service;
 
-import net.egem.webService.entity.User;
-import net.egem.webService.repository.dao.UserDao;
+import net.dk.webService.entity.User;
+import net.dk.webService.repository.dao.UserDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

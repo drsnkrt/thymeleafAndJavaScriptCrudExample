@@ -1,6 +1,6 @@
-package net.egem.webService.repository.dao;
+package net.dk.webService.repository.dao;
 
-import net.egem.webService.entity.User;
+import net.dk.webService.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

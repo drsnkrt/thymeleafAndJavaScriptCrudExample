@@ -1,4 +1,4 @@
-package net.egem.webService.entity;
+package net.dk.webService.entity;
 
 import javax.persistence.*;
 import java.util.Date;
